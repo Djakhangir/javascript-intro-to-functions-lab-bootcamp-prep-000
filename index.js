@@ -18,7 +18,7 @@ describe ('logWhisper(string)', () => {
 function logWhisper(string){
   console.log (string.toLowerCase())
 }
-describe ('sayHiToGrandma(string)', () => {
+describe('sayHiToGrandma(string)', () => {
 })
 function sayHiToGrandma(string){
   return string.toLowerCase().toEqual
