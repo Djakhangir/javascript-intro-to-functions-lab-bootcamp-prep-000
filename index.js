@@ -21,10 +21,5 @@ function logWhisper(string){
 describe('sayHiToGrandma(string)', () => {
 })
 function sayHiToGrandma(string){
-
-  var lowercase = 'hello!'
- 
-lowercase.toLowerCase() === lowercase
-
-  return 'HELLO'.toLowerCase()
+  return 'hello'.toLowerCase()
   } 
