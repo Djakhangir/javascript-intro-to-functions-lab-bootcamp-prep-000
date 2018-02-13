@@ -23,7 +23,7 @@ describe('sayHiToGrandma(string)', () => {
 function sayHiToGrandma(string){
   var uppercase = 'HELLO';
   var lowercase = 'HELLO';
-  var loveYou = 'Love you, Grandma!'
-  if 
+  var loveYou = 'I love you, Grandma.'
+  if uppercase.toUpperCase===uppercase {
   return 'hello'
   } 
