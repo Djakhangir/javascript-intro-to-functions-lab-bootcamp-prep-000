@@ -31,4 +31,6 @@ function sayHiToGrandma(string){
     return string.toUpperCase
   }
    else {
-   return 
+   return 'I love you, Grandma'
+   }
+}
