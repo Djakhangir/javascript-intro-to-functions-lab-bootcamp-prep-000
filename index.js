@@ -27,5 +27,7 @@ function sayHiToGrandma(string){
   if (uppercase.toUpperCase===uppercase) {
   return string.toUpperCase;
   }
-  if (lowercase.toLowerCase===lowercase)
-  } 
+  if (lowercase.toLowerCase===lowercase) {
+    return string.toUpperCase
+  }
+   else 
